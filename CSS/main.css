@@ -1,0 +1,98 @@
+body{
+    
+    background: url("http://img00.deviantart.net/e3a1/i/2012/019/6/a/big_brother_is_watching_you_by_zfshadowsoldier-d4mvrfw.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 50% 79%;
+    background-color: black;
+    background-attachment: fixed
+}
+
+h3{
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    padding-top: 250px
+    
+}
+
+h2{
+    font-family: "Oswald", sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    text-align: center;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-shadow: 0 3px 0 #fff;
+}
+
+nav{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: white;    
+}
+
+button{
+    padding: 11px 26px 11px 26px;
+    background: transparent;
+}
+
+#p1{
+    font-family: "Oswald", sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 20;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-shadow: 0 3px 0 #fff;
+    text-align: justify;
+}
+
+#p2{
+    font-family: "Oswald", sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 20;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-shadow: 0 3px 0 #fff;
+    text-align: justify;
+}
+
+#p3{
+    font-family: "Oswald", sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 20;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-shadow: 0 3px 0 #fff;
+    text-align: justify;
+}
+
+#page2{
+    background: url("https://s.instela.com/m/wondrous-a-ulasmak-istemek--i543620.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;    
+    background-color: black;
+    background-attachment: fixed
+}
+
+#headline2{
+    font-family: "Oswald", sans-serif;
+    margin-top: 86px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 60px;
+    font-size: 40px;
+    text-align: justify;
+    text-decoration: underline;    
+}
+
+iframe{
+    
+}
